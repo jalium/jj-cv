@@ -83,4 +83,4 @@ Ingénieure de formation (chimique et biochimique) avec expérience en gestion d
 
 ---
 
-**Télécharger le PDF :** [Jessica_Johnson_CV_2025-09-09.pdf](https://jalium.github.io/jj-cv/Jessica_Johnson_CV_2025-09-09.pdf)
+**Télécharger:** [Jessica_Johnson_CV_2025-09-09.pdf](https://jalium.github.io/jj-cv/Jessica_Johnson_CV_2025-09-09.pdf)
