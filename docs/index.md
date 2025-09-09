@@ -42,6 +42,7 @@ Ingénieure de formation (chimique et biochimique) avec expérience en gestion d
 
 ### Cheffe de projet — **Flojoy**  
 *mai 2023 – janvier 2024*  
+*Startup en logiciels de test, mesure et contrôle pour l’automatisation de matériel de laboratoire*  
 - Dirigé une équipe pluridisciplinaire de 6–8 ingénieurs (test, mesure, contrôle).  
 - Aligné backlogs et OKR avec la stratégie; priorisation avec la direction.  
 - Tableaux de bord et rapports exécutifs pour décisions informées.  
@@ -49,18 +50,21 @@ Ingénieure de formation (chimique et biochimique) avec expérience en gestion d
 
 ### Développeuse front-end — **Mentorly**  
 *août 2020 – février 2023*  
+*Plateforme SaaS de mentorat pour entreprises et institutions*  
 - Fonctionnalités entreprise en React/TypeScript.  
 - Tests E2E (Cypress) pour fiabilité et qualité.  
 - Traduction des retours utilisateurs en priorités produit.
 
 ### Développeuse web — **Folklore / URBANIA**  
 *octobre 2019 – août 2020*  
+*Médias numériques et studio créatif — produits web à fort trafic*  
 - Amélioration CMS avec l’UX, meilleure utilisabilité.  
 - Prototype de recommandations IA (TensorFlow).  
 - Intégration Analytics pour décisions éditoriales.
 
 ### Stagiaire — Analyste — **Ambri Inc.**  
 *janvier 2019 – avril 2019*  
+*Stockage d’énergie — batteries nouvelle génération (R&D)*  
 - Analyses matériaux/performance sur chimie de batteries.  
 - Diagnostic via SEM et EDX; recommandations d’amélioration.  
 - Soutien R&D en stockage d’énergie renouvelable.
