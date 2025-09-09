@@ -1,3 +1,6 @@
+<!-- Hide GitHub Pages default site header on the web version -->
+<style>.site-header, .page-header, header[role="banner"] { display: none !important; }</style>
+<!-- End hide header -->
 # Jessica Johnson
 
 **Montréal, QC** • **jaliumj@gmail.com** • **(707) 503-9264** • **LinkedIn: jessica-v-johnson**
@@ -62,5 +65,3 @@ Ingénieure de formation (chimique et biochimique) avec expérience en gestion d
 **Baccalauréat en génie chimique (profil environnement)** — Queen’s University (2010–2014)
 
 ---
-
-<!-- web-only download link (hidden in PDF) --><p><strong>Télécharger le PDF :</strong> <a href="https://jalium.github.io/jj-cv/Jessica_Johnson_CV_2025-09-09.pdf">Jessica_Johnson_CV_2025-09-09.pdf</a></p>
