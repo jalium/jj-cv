@@ -1,6 +1,26 @@
+---
+title: "Jessica Johnson — CV"
+fontsize: 11pt
+geometry: margin=0.8in
+colorlinks: true
+linkcolor: MidnightBlue
+urlcolor: MidnightBlue
+header-includes:
+  - \usepackage{fontspec}
+  - \setmainfont{Helvetica Neue}
+  - \usepackage{titlesec}
+  - \titleformat{\section}{\large\bfseries}{\thesection}{1em}{}
+  - \titlespacing*{\section}{0pt}{1.2ex plus .2ex}{0.6ex}
+  - \titleformat{\subsection}{\normalsize\bfseries}{\thesubsection}{1em}{}
+  - \titlespacing*{\subsection}{0pt}{1ex}{0.5ex}
+  - \usepackage{enumitem}
+  - \setlist[itemize]{topsep=2pt,itemsep=2pt,parsep=0pt}
+  - \linespread{1.05}
+---
+
 # Jessica Johnson — CV
 
-**Montréal, QC** • **jaliumj@gmail.com** • **(707) 503-9264** • **LinkedIn : jessica-v-johnson**
+**Montréal, QC** • **jaliumj@gmail.com** • **(707) 503-9264** • **LinkedIn: jessica-v-johnson**
 
 ---
 
@@ -59,5 +79,4 @@ Ingénieure de formation (chimique et biochimique) avec expérience en gestion d
 
 ---
 
-> 👉 Version PDF :  
-> **[Télécharger le CV](https://jalium.github.io/jj-cv/Jessica_Johnson_CV.pdf?v=2)**
+**Télécharger le PDF :** [Jessica_Johnson_CV_2025-09-09.pdf](https://jalium.github.io/jj-cv/Jessica_Johnson_CV_2025-09-09.pdf)
